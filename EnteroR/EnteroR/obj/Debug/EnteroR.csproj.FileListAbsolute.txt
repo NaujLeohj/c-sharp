@@ -1,0 +1,9 @@
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\bin\Debug\EnteroR.exe.config
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\bin\Debug\EnteroR.exe
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\bin\Debug\EnteroR.pdb
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\obj\Debug\EnteroR.csprojResolveAssemblyReference.cache
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\obj\Debug\EnteroR.Form1.resources
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\obj\Debug\EnteroR.Properties.Resources.resources
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\obj\Debug\EnteroR.csproj.GenerateResource.Cache
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\obj\Debug\EnteroR.exe
+D:\RESPALDO\c_sharp\EnteroR\EnteroR\obj\Debug\EnteroR.pdb

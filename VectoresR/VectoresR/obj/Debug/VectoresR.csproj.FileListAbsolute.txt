@@ -1,0 +1,9 @@
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\bin\Debug\VectoresR.exe.config
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\bin\Debug\VectoresR.exe
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\bin\Debug\VectoresR.pdb
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\obj\Debug\VectoresR.csprojResolveAssemblyReference.cache
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\obj\Debug\VectoresR.Form1.resources
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\obj\Debug\VectoresR.Properties.Resources.resources
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\obj\Debug\VectoresR.csproj.GenerateResource.Cache
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\obj\Debug\VectoresR.exe
+D:\RESPALDO\c_sharp\VectoresR\VectoresR\obj\Debug\VectoresR.pdb

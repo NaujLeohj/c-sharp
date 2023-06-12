@@ -7,3 +7,12 @@ c:\users\maribel\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Deb
 c:\users\maribel\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
 c:\users\maribel\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.exe
 c:\users\maribel\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.pdb
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\bin\Debug\Matrices.exe.config
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\bin\Debug\Matrices.exe
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\bin\Debug\Matrices.pdb
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\obj\Debug\Matrices.Form1.resources
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\obj\Debug\Matrices.exe
+D:\c-sharp-clone\c-sharp\MatrizR\Matrices\obj\Debug\Matrices.pdb
